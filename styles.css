@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(53,101,77);
+}
+button{
+    border-radius: 3%;
+    background-color: grey;
+    color: white;
+}
